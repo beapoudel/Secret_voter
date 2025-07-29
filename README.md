@@ -128,3 +128,5 @@ npx hardhat run scripts/deploy.js --network goerli
 
 *Built with ❤️ for a more democratic future*
 Contract Address:-0xFC9A597DdB9e1e9fC2971e44bA2304F8d4645B1b
+<img width="1920" height="759" alt="image" src="https://github.com/user-attachments/assets/d8d1b653-e0f2-4d3b-a101-b59b12ba5808" />
+
